@@ -13,10 +13,10 @@
 I am an ML Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m working in NLP, Computer Vision and Reinforcement Learning.
-- 🧑‍🎓 I’m studying B.Tech Computer Science and Engineering at Indian Institute of Technology, Indore.
+- 🧑‍🎓 I’m studying B.Tech Computer Science and Engineering at IIITS.
 - 🌱 Exploring Generative Models.
 - ⚡ In my free time I watch tech videos and read ML articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Yatharth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-singhal/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/Priyansh--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-singhal/)
 
 ---
 
